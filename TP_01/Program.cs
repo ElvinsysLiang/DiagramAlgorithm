@@ -11,6 +11,7 @@ namespace TP_01
         static void Main(string[] args)
         {
             Console.WriteLine("In TP_01");
+            Console.WriteLine("write something in notebook");
             Console.ReadKey();
         }
     }
